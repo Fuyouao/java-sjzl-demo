@@ -2,7 +2,7 @@ spring:
   mail:
     host: smtp.163.com #SMTP
     username: hq_learn@163.com #发送方邮箱账号
-    password: IFHUHCMBVJXBKVJN #授权码
+    password:  #授权码
     properties:
       from: hq_learn@163.com #
   thymeleaf:
