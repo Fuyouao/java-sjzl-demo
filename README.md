@@ -16,9 +16,10 @@
 - 6、注意：运行各个 demo 之前，有些是需要事先初始化数据库数据的，亲们别忘记了哦~
 
 # 各 Module 介绍
-| Module 名称 | Module 介绍 |
-| --- | --- |
-|springboot-send-mail|基于springBoot实现邮件发送功能|
-|springboot-websocket|SpringBoot整合WebSocket，实现即时通讯功能|
+| Module 名称 | Module 介绍 | 说明文档 |
+| --- | --- |--- |
+|springboot-send-mail|基于springBoot实现邮件发送功能|[使用SpringBoot发送邮件，就是这么容易](https://mp.weixin.qq.com/s/9NqkiTsAhyveddAvMgLhRQ)
+|springboot-websocket|SpringBoot整合WebSocket，实现即时通讯功能|[SpringBoot整合WebSocket，实现即时通讯](https://mp.weixin.qq.com/s/00XT8yqr7xC0xNH0vQiR5A)
+|springboot-easypoi-demo|SpringBoot整合EasyPoi，导入导出功能实践|[SpringBoot项目使用EasyPoi实现导入导出，就是这么的丝滑](https://mp.weixin.qq.com/s/f8nrPxAtI3xIyiGE3HXvbA)
 
 # 感谢
