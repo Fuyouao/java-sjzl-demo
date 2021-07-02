@@ -20,6 +20,7 @@
         <module>springboot-send-mail</module>
         <module>springboot-websocket</module>
         <module>springboot-easypoi-demo</module>
+        <module>springboot-task-scheduler</module>
     </modules>
 
 </project>
