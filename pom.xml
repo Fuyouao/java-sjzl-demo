@@ -21,6 +21,7 @@
         <module>springboot-websocket</module>
         <module>springboot-easypoi-demo</module>
         <module>springboot-task-scheduler</module>
+        <module>springboot-xxl-job-demo</module>
     </modules>
 
 </project>
